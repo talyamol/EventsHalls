@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hOTkxy1e/dUjsBZMomPR73W6duK5C8qWuSnvjpUZg+mWwwY6dLSSL9rrEnDo+THq9q7kT46vLhynYTzQ6sxv1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\talya\\Documents\\תכנות\\תשפד\\.net\\HallsEvents\\Solid.Core\\Solid.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\talya\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\talya\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
