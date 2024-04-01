@@ -26,7 +26,7 @@ namespace Solid.Core
         {
             InvitedDTO invitedDTO = new InvitedDTO()
             { Name = invited.Name, Id = invited.Id, Age = invited.Age, Email = invited.Email, IdEvent = invited.IdEvent };
-       return invitedDTO;
+            return invitedDTO;
         }
     }
 }

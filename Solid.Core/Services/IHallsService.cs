@@ -9,13 +9,13 @@ namespace Solid.Core.Services
 {
     public interface IHallsService
     {
-        List<Halls> GetHalls();
+       Task< IEnumerable<Halls>> GetHallsAsync();
 
-        Halls GetById(int id);
-        Halls AddHalls(Halls hall);
+       Task< Halls> GetByIdAsync(int id);
+       Task< Halls> AddHallsAsync(Halls hall);
 
-        Halls UpdateHalls(int id, Halls hall);
+        Task<Halls> UpdateHallsAsync(int id, Halls hall);
 
-        void DeleteHalls(int id);
+        Task DeleteHallsAsync(int id);
     }
 }

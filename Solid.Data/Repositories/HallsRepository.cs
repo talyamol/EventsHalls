@@ -1,4 +1,5 @@
-﻿using Solid.Core.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using Solid.Core.Entities;
 using Solid.Core.Repositories;
 using System;
 using System.Collections.Generic;
@@ -15,32 +16,33 @@ namespace Solid.Data.Repositories
         {
             _context = dataContext;
         }
-        public Halls AddHalls(Halls halls)
+        public async Task<Halls> AddHallsAsync(Halls halls)
         {
             _context.HallsList.Add(halls);
-            _context.SaveChanges();
-            return halls;
+            await _context.SaveChangesAsync();
+            return  halls;
         }
 
-        public void DeleteHalls(int id)
+        public async Task DeleteHallsAsync(int id)
         {
-            _context.HallsList.Remove(_context.HallsList.ToList().Find(x => x.Id == id));
-            _context.SaveChanges();
+            var h=await GetByIdAsync(id);
+            _context.HallsList.Remove(h);
+           await _context.SaveChangesAsync();
         }
 
-        public Halls GetById(int id)
+        public async Task<Halls> GetByIdAsync(int id)
         {
-            return _context.HallsList.ToList().Find(x => x.Id == id);
+            return await _context.HallsList.FindAsync( id);
         }
 
-        public List<Halls> GetHalls()
+        public async Task< IEnumerable<Halls>> GetHallsAsync()
         {
-            return _context.HallsList.ToList();
+            return await _context.HallsList.ToListAsync();
         }
 
-        public Halls UpdateHalls(int id, Halls halls)
+        public async Task< Halls> UpdateHallsAsync(int id, Halls halls)
         {
-            var updateHalls = _context.HallsList.ToList().Find(x => x.Id == id);
+            var updateHalls = await GetByIdAsync(id);
             if (updateHalls != null)
             {
                 updateHalls.Id = halls.Id;
@@ -49,10 +51,10 @@ namespace Solid.Data.Repositories
                 updateHalls.Street = halls.Street;
                 updateHalls.Name = halls.Name;
                 updateHalls.City = halls.City;
-                _context.SaveChanges();
-                return updateHalls;
+                _context.SaveChangesAsync();
+                
             }
-            return null;
+            return updateHalls;
         }
     }
 }

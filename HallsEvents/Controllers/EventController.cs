@@ -21,7 +21,7 @@ namespace HallsEvents.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            var list=_eventsService.GetEvents();
+            var list=_eventsService.GetEventsAsync();
             return Ok(list);
         }
 

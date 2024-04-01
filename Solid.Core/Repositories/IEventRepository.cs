@@ -9,15 +9,15 @@ namespace Solid.Core.Repositories
 {
     public interface IEventRepository
     {
-        List<Event> GetEvents();
+       Task< IEnumerable<Event> >GetEventsAsync();
 
-        Event GetById(int id);
+       Task< Event> GetByIdAsync(int id);
 
         Task<Event> AddEventsAsync(Event event1);
 
-        Event UpdateEvents(int id, Event event1);
+        Task<Event> UpdateEventsAsync(int id, Event event1);
 
-        void DeleteEvents(int id);
+        Task DeleteEventsAsync(int id);
 
     }
 }

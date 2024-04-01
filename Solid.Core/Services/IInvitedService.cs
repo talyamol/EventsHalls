@@ -9,14 +9,14 @@ namespace Solid.Core.Services
 {
     public interface IInvitedService
     {
-        List<Invited> GetInvited();
+        Task<IEnumerable<Invited>> GetInvitedAsync();
 
-        Invited GetById(int id);
-        Invited AddInvited(Invited invited);
+        Task<Invited> GetByIdAsync(int id);
+        Task<Invited> AddInvitedAsync(Invited invited);
 
-        Invited UpdateInvited(int id, Invited invited);
+        Task<Invited> UpdateInvitedAsync(int id, Invited invited);
 
-        void DeleteInvited(int id);
+        Task DeleteInvitedAsync(int id);
 
     }
 }

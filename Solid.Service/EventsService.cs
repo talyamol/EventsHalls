@@ -17,28 +17,28 @@ namespace Solid.Service
         {
             _eventsRepository = eventsRepository;
         }
-        public Event GetById(int id)
+        public async Task< Event> GetByIdAsync(int id)
         {
-            return _eventsRepository.GetById(id);
+            return await _eventsRepository.GetByIdAsync(id);
         }
 
-        public List<Event> GetEvents()
+        public async Task< IEnumerable<Event>> GetEventsAsync()
         {
-            return _eventsRepository.GetEvents();
+            return await _eventsRepository.GetEventsAsync();
         }
         public async Task<Event> AddEventsAsync(Event event1)
         {
             return  await _eventsRepository.AddEventsAsync(event1);
         }
 
-        public Event UpdateEvents(int id, Event e)
+        public async Task< Event> UpdateEventsAsync(int id, Event e)
         {
-            return _eventsRepository.UpdateEvents(id, e);
+            return await _eventsRepository.UpdateEventsAsync(id, e);
         }
 
-        public void DeleteEvents(int id)
+        public async Task DeleteEventsAsync(int id)
         {
-            _eventsRepository.DeleteEvents(id);
+           await _eventsRepository.DeleteEventsAsync(id);
         }
 
     }

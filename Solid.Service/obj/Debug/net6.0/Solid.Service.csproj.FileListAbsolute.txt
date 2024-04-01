@@ -8,8 +8,9 @@ C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\Solid.Service\obj\
 C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
 C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
 C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
-C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
 C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
 C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
 C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
 C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\Solid.Service\obj\Debug\net6.0\Solid.Service.sourcelink.json
+C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\Solid.Service\obj\Debug\net6.0\Solid.Se.43634695.Up2Date

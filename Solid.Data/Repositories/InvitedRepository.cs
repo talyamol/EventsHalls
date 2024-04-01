@@ -1,4 +1,5 @@
-﻿using Solid.Core.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using Solid.Core.Entities;
 using Solid.Core.Repositories;
 using System;
 using System.Collections.Generic;
@@ -15,30 +16,33 @@ namespace Solid.Data.Repositories
         {
             _context = dataContext;
         }
-        public Invited AddInvited(Invited invited)
+        public async Task<Invited> AddInvitedAsync(Invited invited)
         {
-            _context.InvitedsList.ToList().Add(invited);
+            _context.InvitedsList.Add(invited);
+            await _context.SaveChangesAsync();
             return invited;
         }
 
-        public void DeleteInvited(int id)
+        public async Task DeleteInvitedAsync(int id)
         {
-            _context.InvitedsList.ToList().Remove(_context.InvitedsList.ToList().Find(x => x.Id == id));
+            var i = await GetByIdAsync(id);
+            _context.InvitedsList.Remove(i);
+            await _context.SaveChangesAsync();
         }
 
-        public Invited GetById(int id)
+        public async Task<Invited> GetByIdAsync(int id)
         {
-            return _context.InvitedsList.ToList().Find(x => x.Id == id);
+            return await _context.InvitedsList.FindAsync(id);
         }
 
-        public List<Invited> GetInvited()
+        public async Task<IEnumerable<Invited>> GetInvitedAsync()
         {
-            return _context.InvitedsList.ToList();
+            return await _context.InvitedsList.ToListAsync();
         }
 
-        public Invited UpdateInvited(int id, Invited invited)
+        public async Task<Invited> UpdateInvitedAsync(int id, Invited invited)
         {
-            var updateInvited = _context.InvitedsList.ToList().Find(x => x.Id == id);
+            var updateInvited = await GetByIdAsync(id);
             if (updateInvited != null)
             {
                 updateInvited.IdEvent = invited.Id;
@@ -46,9 +50,9 @@ namespace Solid.Data.Repositories
                 updateInvited.Email = invited.Email;
                 updateInvited.IdEvent = invited.IdEvent;
                 updateInvited.Name = invited.Name;
-                return updateInvited;
+
             }
-            return null;
+            return updateInvited;
         }
     }
 }

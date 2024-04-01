@@ -9,15 +9,15 @@ namespace Solid.Core.Repositories
 {
     public interface IHallsRepository
     {
-        List<Halls> GetHalls();
+        Task<IEnumerable<Halls>> GetHallsAsync();
 
-        Halls GetById(int id);
+        Task<Halls> GetByIdAsync(int id);
 
-        Halls AddHalls(Halls halls);
+      Task<  Halls> AddHallsAsync(Halls halls);
 
-        Halls UpdateHalls(int id, Halls halls);
+       Task< Halls> UpdateHallsAsync(int id, Halls halls);
 
-        void DeleteHalls(int id);
+        Task DeleteHallsAsync(int id);
 
     }
 }

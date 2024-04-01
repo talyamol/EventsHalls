@@ -23,40 +23,41 @@ namespace Solid.Data.Repositories
             return event1;
         }
 
-        public void DeleteEvents(int id)
+        public async Task DeleteEventsAsync(int id)
         {
-            _context.EventList.Remove(_context.EventList.ToList().Find(x => x.Id == id));
-            _context.SaveChanges();
+            var e=await GetByIdAsync(id);
+            _context.EventList.Remove(e);
+           await _context.SaveChangesAsync();
         }
 
-        public Event GetById(int id)
+        public async Task<Event> GetByIdAsync(int id)
         {
-            return _context.EventList.ToList().Find(x => x.Id == id);
+            return await _context.EventList.FindAsync(id);
         }
 
-        public IEnumerable<Event> GetEvents()
+        public async Task< IEnumerable<Event>> GetEventsAsync()
         {
-            return _context.EventList.ToList();
+            return await _context.EventList.ToListAsync();
             //return _context.EventList.Include(e => e.Inviteds);
 
         }
 
-        public Event UpdateEvents(int id, Event event1)
+        public async Task< Event> UpdateEventsAsync(int id, Event event1)
         {
-            var updateEvents = _context.EventList.ToList().Find(x => x.Id == id);
+            var updateEvents = await GetByIdAsync(id);
             if (updateEvents != null)
             {
-                updateEvents.StartHour = event1.StartHour;
+              //  updateEvents.StartHour = event1.StartHour;
                 updateEvents.CountInvited = event1.CountInvited;
                 updateEvents.MinAge = event1.MinAge;
-                updateEvents.Date = event1.Date;
+               // updateEvents.Date = event1.Date;
                 updateEvents.HallId = event1.HallId;
                 updateEvents.Id = event1.Id;
                 updateEvents.Name = event1.Name;
-                _context.SaveChanges();
-                return updateEvents;
+                _context.SaveChangesAsync();
+                
             }
-            return null;
+            return updateEvents;
         }
     }
 }

@@ -9,3 +9,5 @@ C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\Solid.Core\obj\Deb
 C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
 C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
 C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\Solid.Core\obj\Debug\net6.0\Solid.Core.sourcelink.json

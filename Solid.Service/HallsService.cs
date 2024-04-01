@@ -19,28 +19,28 @@ namespace Solid.Service
         {
             _hallsRepository = hallsRepository;
         }
-        public Halls GetById(int id)
+        public async Task< Halls> GetByIdAsync(int id)
         {
-            return _hallsRepository.GetById(id);
+            return await _hallsRepository.GetByIdAsync(id);
         }
 
-        public List<Halls> GetHalls()
+        public async Task< IEnumerable<Halls>> GetHallsAsync()
         {
-            return _hallsRepository.GetHalls();
+            return await _hallsRepository.GetHallsAsync();
         }
-        public Halls AddHalls(Halls hall)
+        public async Task< Halls> AddHallsAsync(Halls hall)
         {
-            return _hallsRepository.AddHalls(hall);
-        }
-
-        public Halls UpdateHalls(int id, Halls h)
-        {
-            return _hallsRepository.UpdateHalls(id, h);
+            return await _hallsRepository.AddHallsAsync(hall);
         }
 
-        public void DeleteHalls(int id)
+        public async Task< Halls> UpdateHallsAsync(int id, Halls h)
         {
-            _hallsRepository.DeleteHalls(id);
+            return await _hallsRepository.UpdateHallsAsync(id, h);
+        }
+
+        public async Task DeleteHallsAsync(int id)
+        {
+           await _hallsRepository.DeleteHallsAsync(id);
         }
     }
 }

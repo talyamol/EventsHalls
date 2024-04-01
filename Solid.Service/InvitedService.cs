@@ -18,29 +18,29 @@ namespace Solid.Service
             _invitedRepository = invitedRepository;
         }
 
-        public Invited AddInvited(Invited invited)
+        public async Task< Invited > AddInvitedAsync(Invited invited)
         {
-            return _invitedRepository.AddInvited(invited);
+            return await _invitedRepository.AddInvitedAsync(invited);
         }
 
-        public void DeleteInvited(int id)
+        public async Task DeleteInvitedAsync(int id)
         {
-            _invitedRepository.DeleteInvited(id);
+          await  _invitedRepository.DeleteInvitedAsync(id);
         }
 
-        public Invited GetById(int id)
+        public async Task< Invited> GetByIdAsync(int id)
         {
-            return _invitedRepository.GetById(id);
+            return await _invitedRepository.GetByIdAsync(id);
         }
 
-        public List<Invited> GetInvited()
+        public async Task<IEnumerable<Invited>> GetInvitedAsync()
         {
-            return _invitedRepository.GetInvited();
+            return await _invitedRepository.GetInvitedAsync();
         }
 
-        public Invited UpdateInvited(int id, Invited invited)
+        public async Task< Invited> UpdateInvitedAsync(int id, Invited invited)
         {
-            return UpdateInvited(id, invited);
+            return await UpdateInvitedAsync(id, invited);
         }
     }
 }

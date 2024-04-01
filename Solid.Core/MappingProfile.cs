@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solid.Core
+namespace Solid.CoreM
 {
     public class MappingProfile:Profile
     {

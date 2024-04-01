@@ -9,13 +9,13 @@ namespace Solid.Core.Services
 {
     public interface IEventService
     {
-        List<Event> GetEvents();
+       Task< IEnumerable<Event>> GetEventsAsync();
 
-        Event GetById(int id);
+       Task< Event> GetByIdAsync(int id);
         Task<Event> AddEventsAsync(Event event1);
 
-        Event UpdateEvents(int id, Event e);
+       Task< Event> UpdateEventsAsync(int id, Event e);
 
-        void DeleteEvents(int id);
+        Task DeleteEventsAsync(int id);
     }
 }
