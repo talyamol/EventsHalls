@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Mvc;
+using Solid.Core.DTOs;
 using Solid.Core.Entities;
 using Solid.Core.Services;
 using Solid.Service;
@@ -13,54 +15,61 @@ namespace HallsEvents.Controllers
     public class EventController : ControllerBase
     {
         private readonly IEventService _eventsService;
-        public EventController(IEventService data)
+        private readonly IMapper _mapper;
+        public EventController(IEventService data, IMapper mapper)
         {
             _eventsService = data;
+            _mapper = mapper;
         }
         // GET: api/<EventController>
         [HttpGet]
-        public IActionResult Get()
+        public async Task<ActionResult> Get()
         {
-            var list=_eventsService.GetEventsAsync();
+            var list = _eventsService.GetEventsAsync();
             return Ok(list);
         }
 
         // GET api/<EventController>/5
         [HttpGet("{id}")]
-        public ActionResult<Event> Get(int id)
+        public async Task<ActionResult<Event>> Get(int id)
         {
-            //var eve = _eventsService.GetById(id);
-            //if (eve==null) 
-            //    return NotFound();
-            //return Ok(eve);
-            return _eventsService.GetById(id);
+            var list = await _eventsService.GetByIdAsync(id);
+            return Ok(_mapper.Map<IEnumerable<EventDTO>>(list));
+           
         }
 
         // POST api/<EventController>
         [HttpPost]
         public async Task<ActionResult> Post([FromBody] Event e)
         {
-            var eventToAdd=new Event { Name = e.Name ,CountInvited=e.CountInvited,Date=e.Date,HallId=e.HallId,Id=e.Id,MinAge=e.MinAge,StartHour=e.StartHour};
-           var newEvent=await _eventsService.AddEventsAsync(e);
+            var eventToAdd = new Event { Name = e.Name, CountInvited = e.CountInvited, Date = e.Date, HallId = e.HallId, Id = e.Id, MinAge = e.MinAge, StartHour = e.StartHour };
+            var newEvent = await _eventsService.AddEventsAsync(e);
             return Ok(newEvent);
         }
 
         // PUT api/<EventController>/5
         [HttpPut("{id}")]
-        public ActionResult<Event> Put(int id, [FromBody] Event event1)
+        public async Task<ActionResult<Event>> Put(int id, [FromBody] Event event1)
         {
-
+            var eve = await _eventsService.GetByIdAsync(id);
+            if (eve is null)
             {
-                return Ok(_eventsService.UpdateEvents(id, event1));
+                return NotFound();
             }
+            return Ok(_eventsService.UpdateEventsAsync(id, event1));
         }
 
         // DELETE api/<EventController>/5
         [HttpDelete("{id}")]
-        public ActionResult<Event> Delete(int id)
+        public async Task<ActionResult> Delete(int id)
         {
-            _eventsService.DeleteEvents(id);
-            return Ok();
+            var eve = await _eventsService.GetByIdAsync(id);
+            if (eve is null)
+            {
+                return NotFound();
+            }
+            await _eventsService.DeleteEventsAsync(id);
+            return NoContent();
         }
     }
 }

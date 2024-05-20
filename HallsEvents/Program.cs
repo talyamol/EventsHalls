@@ -1,12 +1,15 @@
 //using EventsHalls.Entities;
-using Solid.Core.Repositories;
+using HallsEvents.Mapping;
 using Solid.Core.Repositories;
 using Solid.Core.Services;
+using Solid.CoreM;
 using Solid.Data;
 using Solid.Data.Repositories;
 using Solid.Service;
+using System.Globalization;
 
 var builder = WebApplication.CreateBuilder(args);
+
 
 // Add services to the container.
 
@@ -21,9 +24,15 @@ builder.Services.AddScoped<IEventService, EventsService>();
 builder.Services.AddScoped<IHallsService, HallsService>();
 builder.Services.AddScoped<IInvitedService, InvitedService>();
 
+builder.Services.AddAutoMapper(typeof(MappingProfile));
+builder.Services.AddAutoMapper(typeof(PostModelMapping));
+
+
+
 builder.Services.AddDbContext<DataContext>();
 
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

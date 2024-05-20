@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lr8D3Kd9u15hWsLuSaPWeA+rhLGh519a769eX61AHm8Akmeq927P+zPv7VR757Tq2yAP3n6E4ckGthKKxPaA5A==",
+  "dgSpecHash": "69HgslXknvZcIZEichzxQJKhwH7cidwtoenuDpO4eAXLbPnEyDbx4YWy9paDiGRiYRJZgQV22uw5G04ruTIU1Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\talya\\Documents\\תכנות\\תשפד\\.net\\HallsEvents\\HallsEvents\\HallsEvents.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\talya\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\talya\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\talya\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\talya\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\talya\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

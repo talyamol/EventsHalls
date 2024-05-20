@@ -3,16 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\hallsevents\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|solutionrelative:hallsevents\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\hallsevents\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|solutionrelative:hallsevents\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\hallsevents\\models\\invitedpostmosel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|solutionrelative:hallsevents\\models\\invitedpostmosel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\hallsevents\\models\\hallspostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|solutionrelative:hallsevents\\models\\hallspostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\hallsevents\\models\\eventspostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|solutionrelative:hallsevents\\models\\eventspostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.core\\dtos\\hallsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dtos\\hallsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.core\\dtos\\inviteddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dtos\\inviteddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.core\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.core\\entities\\invited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\entities\\invited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.core\\entities\\halls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\entities\\halls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.core\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\hallsevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|solutionrelative:hallsevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.core\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF55EF1D-D6DD-46F9-8EBF-789FFD73CF09}|Solid.Data\\Solid.Data.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF55EF1D-D6DD-46F9-8EBF-789FFD73CF09}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\hallsevents\\mapping\\postmodelmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|solutionrelative:hallsevents\\mapping\\postmodelmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\hallsevents\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|solutionrelative:hallsevents\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\hallsevents\\controllers\\hallscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|solutionrelative:hallsevents\\controllers\\hallscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\hallsevents\\controllers\\invitedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|solutionrelative:hallsevents\\controllers\\invitedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.core\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,32 +83,12 @@
       "RelativeMoniker": "D:0:0:{DF55EF1D-D6DD-46F9-8EBF-789FFD73CF09}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\repositories\\eventsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF55EF1D-D6DD-46F9-8EBF-789FFD73CF09}|Solid.Data\\Solid.Data.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF55EF1D-D6DD-46F9-8EBF-789FFD73CF09}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.core\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\hallsevents\\controllers\\hallscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|solutionrelative:hallsevents\\controllers\\hallscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.core\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.core\\entities\\invited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\entities\\invited.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.core\\entities\\halls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\entities\\halls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF55EF1D-D6DD-46F9-8EBF-789FFD73CF09}|Solid.Data\\Solid.Data.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.data\\repositories\\invitedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,22 +123,6 @@
       "RelativeMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\repositories\\ihallsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.core\\dtos\\inviteddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dtos\\inviteddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.core\\dtos\\hallsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dtos\\hallsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\solid.core\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D0AB37A-A81D-481D-B669-6A0751207EA6}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\hallsevents\\controllers\\invitedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|solutionrelative:hallsevents\\controllers\\invitedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|c:\\users\\talya\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\hallsevents\\hallsevents\\hallsevents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{35C0D980-81C2-437F-965F-06225FF42A02}|HallsEvents\\HallsEvents.csproj|solutionrelative:hallsevents\\hallsevents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -122,17 +142,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Program.cs",
               "RelativeDocumentMoniker": "HallsEvents\\Program.cs",
               "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Program.cs",
               "RelativeToolTip": "HallsEvents\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAaAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-01-30T17:01:54.852Z",
               "IsPinned": true,
@@ -144,56 +164,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EventsService.cs",
-              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Service\\EventsService.cs",
-              "RelativeDocumentMoniker": "Solid.Service\\EventsService.cs",
-              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Service\\EventsService.cs",
-              "RelativeToolTip": "Solid.Service\\EventsService.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwBgAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:19:58.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Entities\\Event.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Event.cs",
-              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Entities\\Event.cs",
-              "RelativeToolTip": "Solid.Core\\Entities\\Event.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBIAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:09:18.764Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EventController.cs",
-              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Controllers\\EventController.cs",
-              "RelativeDocumentMoniker": "HallsEvents\\Controllers\\EventController.cs",
-              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Controllers\\EventController.cs",
-              "RelativeToolTip": "HallsEvents\\Controllers\\EventController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwCsAAAA7AAAA",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\appsettings.json",
+              "RelativeDocumentMoniker": "HallsEvents\\appsettings.json",
+              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\appsettings.json",
+              "RelativeToolTip": "HallsEvents\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T19:51:53.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventDTO.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\DTOs\\EventDTO.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\DTOs\\EventDTO.cs",
+              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\DTOs\\EventDTO.cs",
+              "RelativeToolTip": "Solid.Core\\DTOs\\EventDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:06:33.242Z",
+              "WhenOpened": "2024-01-31T22:48:27.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "EventsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Data\\Repositories\\EventsRepository.cs",
-              "RelativeDocumentMoniker": "Solid.Data\\Repositories\\EventsRepository.cs",
-              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Data\\Repositories\\EventsRepository.cs",
-              "RelativeToolTip": "Solid.Data\\Repositories\\EventsRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAzAAAA",
+              "Title": "InvitedDTO.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\DTOs\\InvitedDTO.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\DTOs\\InvitedDTO.cs",
+              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\DTOs\\InvitedDTO.cs",
+              "RelativeToolTip": "Solid.Core\\DTOs\\InvitedDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:17:00.411Z"
+              "WhenOpened": "2024-01-31T22:49:25.284Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "HallsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\DTOs\\HallsDTO.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\DTOs\\HallsDTO.cs",
+              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\DTOs\\HallsDTO.cs",
+              "RelativeToolTip": "Solid.Core\\DTOs\\HallsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T22:49:04.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventsPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Models\\EventsPostModel.cs",
+              "RelativeDocumentMoniker": "HallsEvents\\Models\\EventsPostModel.cs",
+              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Models\\EventsPostModel.cs",
+              "RelativeToolTip": "HallsEvents\\Models\\EventsPostModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:45:01.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HallsPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Models\\HallsPostModel.cs",
+              "RelativeDocumentMoniker": "HallsEvents\\Models\\HallsPostModel.cs",
+              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Models\\HallsPostModel.cs",
+              "RelativeToolTip": "HallsEvents\\Models\\HallsPostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:45:36.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvitedPostMosel.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Models\\InvitedPostMosel.cs",
+              "RelativeDocumentMoniker": "HallsEvents\\Models\\InvitedPostMosel.cs",
+              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Models\\InvitedPostMosel.cs",
+              "RelativeToolTip": "HallsEvents\\Models\\InvitedPostMosel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:43:53.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Invited.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Entities\\Invited.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Invited.cs",
+              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Entities\\Invited.cs",
+              "RelativeToolTip": "Solid.Core\\Entities\\Invited.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T17:09:41.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Halls.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Entities\\Halls.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Halls.cs",
+              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Entities\\Halls.cs",
+              "RelativeToolTip": "Solid.Core\\Entities\\Halls.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T17:09:30.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Entities\\Event.cs",
+              "RelativeToolTip": "Solid.Core\\Entities\\Event.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T17:09:18.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostModelMapping.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Mapping\\PostModelMapping.cs",
+              "RelativeDocumentMoniker": "HallsEvents\\Mapping\\PostModelMapping.cs",
+              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Mapping\\PostModelMapping.cs",
+              "RelativeToolTip": "HallsEvents\\Mapping\\PostModelMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:42:40.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Solid.Data\\DataContext.cs",
@@ -201,11 +315,64 @@
               "RelativeToolTip": "Solid.Data\\DataContext.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:16:24.814Z"
+              "WhenOpened": "2024-01-30T17:16:24.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
+              "Title": "InvitedController.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Controllers\\InvitedController.cs",
+              "RelativeDocumentMoniker": "HallsEvents\\Controllers\\InvitedController.cs",
+              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Controllers\\InvitedController.cs",
+              "RelativeToolTip": "HallsEvents\\Controllers\\InvitedController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T17:07:15.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HallsController.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Controllers\\HallsController.cs",
+              "RelativeDocumentMoniker": "HallsEvents\\Controllers\\HallsController.cs",
+              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Controllers\\HallsController.cs",
+              "RelativeToolTip": "HallsEvents\\Controllers\\HallsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T17:06:56.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Services\\IEventService.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Services\\IEventService.cs",
+              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Services\\IEventService.cs",
+              "RelativeToolTip": "Solid.Core\\Services\\IEventService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T17:11:14.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "HallsEvents\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Controllers\\EventController.cs",
+              "RelativeToolTip": "HallsEvents\\Controllers\\EventController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwCQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-30T17:06:33.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Solid.Core\\MappingProfile.cs",
@@ -213,11 +380,12 @@
               "RelativeToolTip": "Solid.Core\\MappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-31T22:52:00.685Z"
+              "WhenOpened": "2024-01-31T22:52:00.685Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "Mapping.cs",
               "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Mapping.cs",
               "RelativeDocumentMoniker": "Solid.Core\\Mapping.cs",
@@ -225,35 +393,38 @@
               "RelativeToolTip": "Solid.Core\\Mapping.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-31T23:35:12.712Z"
+              "WhenOpened": "2024-01-31T23:35:12.712Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IEventService.cs",
-              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Services\\IEventService.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\Services\\IEventService.cs",
-              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Services\\IEventService.cs",
-              "RelativeToolTip": "Solid.Core\\Services\\IEventService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "DocumentIndex": 19,
+              "Title": "EventsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Data\\Repositories\\EventsRepository.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\Repositories\\EventsRepository.cs",
+              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Data\\Repositories\\EventsRepository.cs",
+              "RelativeToolTip": "Solid.Data\\Repositories\\EventsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:11:14.852Z"
+              "WhenOpened": "2024-01-30T17:17:00.411Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HallsController.cs",
-              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Controllers\\HallsController.cs",
-              "RelativeDocumentMoniker": "HallsEvents\\Controllers\\HallsController.cs",
-              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Controllers\\HallsController.cs",
-              "RelativeToolTip": "HallsEvents\\Controllers\\HallsController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAEwBYAAAAkAAAA",
+              "DocumentIndex": 18,
+              "Title": "EventsService.cs",
+              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Service\\EventsService.cs",
+              "RelativeDocumentMoniker": "Solid.Service\\EventsService.cs",
+              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Service\\EventsService.cs",
+              "RelativeToolTip": "Solid.Service\\EventsService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwBgAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:06:56.339Z"
+              "WhenOpened": "2024-01-30T17:19:58.839Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "IEventRepository.cs",
               "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Repositories\\IEventRepository.cs",
               "RelativeDocumentMoniker": "Solid.Core\\Repositories\\IEventRepository.cs",
@@ -261,35 +432,12 @@
               "RelativeToolTip": "Solid.Core\\Repositories\\IEventRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwBMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:10:13.727Z"
+              "WhenOpened": "2024-01-30T17:10:13.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Invited.cs",
-              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Entities\\Invited.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Invited.cs",
-              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Entities\\Invited.cs",
-              "RelativeToolTip": "Solid.Core\\Entities\\Invited.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:09:41.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Halls.cs",
-              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Entities\\Halls.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Halls.cs",
-              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Entities\\Halls.cs",
-              "RelativeToolTip": "Solid.Core\\Entities\\Halls.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:09:30.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "HallsService.cs",
               "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Service\\HallsService.cs",
               "RelativeDocumentMoniker": "Solid.Service\\HallsService.cs",
@@ -297,11 +445,12 @@
               "RelativeToolTip": "Solid.Service\\HallsService.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAYwCwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:20:16.886Z"
+              "WhenOpened": "2024-01-30T17:20:16.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "HallsRepository.cs",
               "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Data\\Repositories\\HallsRepository.cs",
               "RelativeDocumentMoniker": "Solid.Data\\Repositories\\HallsRepository.cs",
@@ -309,11 +458,12 @@
               "RelativeToolTip": "Solid.Data\\Repositories\\HallsRepository.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAYwAsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:17:21.79Z"
+              "WhenOpened": "2024-01-30T17:17:21.79Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "IHallsService.cs",
               "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Services\\IHallsService.cs",
               "RelativeDocumentMoniker": "Solid.Core\\Services\\IHallsService.cs",
@@ -321,23 +471,25 @@
               "RelativeToolTip": "Solid.Core\\Services\\IHallsService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:11:29.891Z"
+              "WhenOpened": "2024-01-30T17:11:29.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "IHallsRepository.cs",
               "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Repositories\\IHallsRepository.cs",
               "RelativeDocumentMoniker": "Solid.Core\\Repositories\\IHallsRepository.cs",
               "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Repositories\\IHallsRepository.cs",
               "RelativeToolTip": "Solid.Core\\Repositories\\IHallsRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:10:32.746Z"
+              "WhenOpened": "2024-01-30T17:10:32.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "InvitedRepository.cs",
               "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Data\\Repositories\\InvitedRepository.cs",
               "RelativeDocumentMoniker": "Solid.Data\\Repositories\\InvitedRepository.cs",
@@ -345,23 +497,25 @@
               "RelativeToolTip": "Solid.Data\\Repositories\\InvitedRepository.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAArwDkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:17:43.611Z"
+              "WhenOpened": "2024-01-30T17:17:43.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "InvitedService.cs",
               "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Service\\InvitedService.cs",
               "RelativeDocumentMoniker": "Solid.Service\\InvitedService.cs",
               "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Service\\InvitedService.cs",
               "RelativeToolTip": "Solid.Service\\InvitedService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBUAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-31T18:58:18.519Z"
+              "WhenOpened": "2024-01-31T18:58:18.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "IInvitedRepository.cs",
               "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Repositories\\IInvitedRepository.cs",
               "RelativeDocumentMoniker": "Solid.Core\\Repositories\\IInvitedRepository.cs",
@@ -369,11 +523,12 @@
               "RelativeToolTip": "Solid.Core\\Repositories\\IInvitedRepository.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAxwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:10:52.512Z"
+              "WhenOpened": "2024-01-30T17:10:52.512Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "IInvitedService.cs",
               "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\Services\\IInvitedService.cs",
               "RelativeDocumentMoniker": "Solid.Core\\Services\\IInvitedService.cs",
@@ -381,59 +536,12 @@
               "RelativeToolTip": "Solid.Core\\Services\\IInvitedService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:11:45.27Z"
+              "WhenOpened": "2024-01-30T17:11:45.27Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "HallsDTO.cs",
-              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\DTOs\\HallsDTO.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\DTOs\\HallsDTO.cs",
-              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\DTOs\\HallsDTO.cs",
-              "RelativeToolTip": "Solid.Core\\DTOs\\HallsDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-31T22:49:04.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "InvitedDTO.cs",
-              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\DTOs\\InvitedDTO.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\DTOs\\InvitedDTO.cs",
-              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\DTOs\\InvitedDTO.cs",
-              "RelativeToolTip": "Solid.Core\\DTOs\\InvitedDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAiwA4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-31T22:49:25.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "EventDTO.cs",
-              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\DTOs\\EventDTO.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\DTOs\\EventDTO.cs",
-              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Core\\DTOs\\EventDTO.cs",
-              "RelativeToolTip": "Solid.Core\\DTOs\\EventDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-31T22:48:27.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "InvitedController.cs",
-              "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Controllers\\InvitedController.cs",
-              "RelativeDocumentMoniker": "HallsEvents\\Controllers\\InvitedController.cs",
-              "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\Controllers\\InvitedController.cs",
-              "RelativeToolTip": "HallsEvents\\Controllers\\InvitedController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-30T17:07:15.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "20240131201940_first.cs",
               "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Data\\Migrations\\20240131201940_first.cs",
               "RelativeDocumentMoniker": "Solid.Data\\Migrations\\20240131201940_first.cs",
@@ -444,26 +552,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "HallsEvents.csproj",
               "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\HallsEvents.csproj",
               "RelativeDocumentMoniker": "HallsEvents\\HallsEvents.csproj",
               "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\HallsEvents\\HallsEvents.csproj",
               "RelativeToolTip": "HallsEvents\\HallsEvents.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-01-31T20:28:48.794Z"
+              "WhenOpened": "2024-01-31T20:28:48.794Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "Solid.Service",
               "DocumentMoniker": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Service\\Solid.Service.csproj",
               "RelativeDocumentMoniker": "Solid.Service\\Solid.Service.csproj",
               "ToolTip": "C:\\Users\\talya\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05EA\u05E9\u05E4\u05D3\\.net\\HallsEvents\\Solid.Service\\Solid.Service.csproj",
               "RelativeToolTip": "Solid.Service\\Solid.Service.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-01-30T17:59:54.009Z"
+              "WhenOpened": "2024-01-30T17:59:54.009Z",
+              "EditorCaption": ""
             }
           ]
         }
