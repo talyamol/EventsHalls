@@ -75,3 +75,5 @@ C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\HallsEvents\obj\De
 C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\HallsEvents\obj\Debug\net6.0\HallsEvents.pdb
 C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\HallsEvents\obj\Debug\net6.0\HallsEvents.genruntimeconfig.cache
 C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\HallsEvents\obj\Debug\net6.0\ref\HallsEvents.dll
+C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\HallsEvents\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\talya\Documents\תכנות\תשפד\.net\HallsEvents\HallsEvents\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll

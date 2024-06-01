@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HallsEvents")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f846dc830ef2e4d4e9d3cc571ab764556b815f3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcc387f29f59b7d58e26f36e8d0a070ebf38cd07")]
 [assembly: System.Reflection.AssemblyProductAttribute("HallsEvents")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HallsEvents")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
